@@ -1,8 +1,9 @@
 # Rapid Todo React Website
 
 ## Starting the server
-npm run build
+```npm run build
 node server
+```
 
 ## Setting up React Router
 https://medium.com/@patriciolpezjuri/using-create-react-app-with-react-router-express-js-8fa658bf892d
@@ -11,7 +12,7 @@ https://medium.com/@patriciolpezjuri/using-create-react-app-with-react-router-ex
 
 
 ## TODO:
-	### General
+### General
 - [x] Implement better data storage solution
 - [x] Build simple react components
 - [x] Host on AWS
