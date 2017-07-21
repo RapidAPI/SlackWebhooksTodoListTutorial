@@ -9,11 +9,8 @@ node server
 ## Setting up React Router
 https://medium.com/@patriciolpezjuri/using-create-react-app-with-react-router-express-js-8fa658bf892d
 
-https://medium.com/@patriciolpezjuri/using-create-react-app-with-react-router-express-js-8fa658bf892d
-
-
 ## TODO:
-
+Things I still need to do
 	### General
 - [x] Implement better data storage solution
 - [x] Build simple react components
