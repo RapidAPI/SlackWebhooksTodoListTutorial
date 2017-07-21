@@ -10,8 +10,6 @@ node server
 https://medium.com/@patriciolpezjuri/using-create-react-app-with-react-router-express-js-8fa658bf892d
 
 ## TODO:
----
-
 - [x] Implement better data storage solution
 - [x] Build simple react components
 - [x] Host on AWS
@@ -20,8 +18,6 @@ https://medium.com/@patriciolpezjuri/using-create-react-app-with-react-router-ex
 - [x] abstract DB credentials from app
 - [ ] add text box to submit new item
 - [x] combine slack slash command and react app into one git directory
-
-
 	### Slack
 - [x] Finish response implementation
 	### Email
