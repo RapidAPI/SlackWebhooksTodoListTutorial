@@ -10,8 +10,9 @@ node server
 https://medium.com/@patriciolpezjuri/using-create-react-app-with-react-router-express-js-8fa658bf892d
 
 ## TODO:
-Things I still need to do
-	### General
+- [x] test
+
+	### Slack
 - [x] Implement better data storage solution
 - [x] Build simple react components
 - [x] Host on AWS
