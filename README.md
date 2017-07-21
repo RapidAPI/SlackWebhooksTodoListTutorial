@@ -12,8 +12,6 @@ https://medium.com/@patriciolpezjuri/using-create-react-app-with-react-router-ex
 ## TODO:
 ---
 
-
-	### General
 - [x] Implement better data storage solution
 - [x] Build simple react components
 - [x] Host on AWS
